@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ridjkytgr/ridjkytgr/main/Astronomy.gif">
+  <img src="https://raw.githubusercontent.com/ridjkytgr/ridjkytgr/main/Astronomy.gif" width="50%">
  </div> 
 <br>
 
