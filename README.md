@@ -1,4 +1,11 @@
 # Hi there! <img src="https://raw.githubusercontent.com/ridjkytgr/ridjkytgr/main/Waving gif.gif" width="30px">
+
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ridjkytgr/ridjkytgr/main/Astronomy.gif" width="50%">
+ </div> 
+<br>
+
 My name is Ridjky Tegar Perkasa and I'm an undergraduate student majoring in computer science. I'm currently studying at Universitas Indonesia. I'm from Bali and will be living in Depok in the future. I'm a passionate software engineer wannabe. This GitHub will be a memo of my long & exciting journey!
 You can find me on [![LinkedIn][3.2]][3]
 
